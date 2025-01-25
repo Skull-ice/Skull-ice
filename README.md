@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Skull-ice
-- 👀 I’m interested in data analysis and in the long term in data science 
-- 🌱 I’m currently learning Python and it's basics libraries
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome 👋  
+I am Skull-ice ( Edson Vigninou ), a student in banking, finance, and insurance, passionate about web development and data analysis.  
 
-<!---
-You can click the Preview link to take a look at my work [ https://www.kaggle.com/edsonvig ]
---->
+### 🛠 Skills  
+- Languages: Python, HTML, CSS, JavaScript, SQL
+- Data Analysis: Pandas, NumPy, Power BI, Tableau  
+- Web Development: Django, Flask 
+
+📫 *Contact:* [https://www.kaggle.com/edsonvig] or [edsonpaulinvigninou@gmail.com]
